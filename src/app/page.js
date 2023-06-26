@@ -1,4 +1,6 @@
+
 import Banner from '@/components/Home/Banner/Banner'
+import Footer from '@/components/Home/Footer/Footer'
 import Navbar from '@/components/Home/Navbar/Navbar'
 import PopularParts from '@/components/Home/PopularParts/PopularParts'
 import Stat from '@/components/Home/Stat/Stat'
@@ -11,6 +13,7 @@ export default function Home() {
       <Banner/>
       <Stat/>
       <PopularParts/>
+      <Footer/>
     </main>
   )
 }

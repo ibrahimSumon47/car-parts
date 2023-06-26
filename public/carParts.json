@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/2-310x310.jpg",
+      "title": "Wheels",
+      "quantity": 10,
+      "category": "Tires and Wheels"
+    },
+    {
+      "id": "2",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/10-310x310.jpg",
+      "title": "Car Seats",
+      "quantity": 5,
+      "category": "Interior Accessories"
+    },
+    {
+      "id": "3",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/light-2-310x310.jpg",
+      "title": "Headlights",
+      "quantity": 8,
+      "category": "Lighting"
+    },
+    {
+      "id": "4",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/4-310x310.jpg",
+      "title": "Suspension",
+      "quantity": 2,
+      "category": "Suspension and Steering"
+    },
+    {
+      "id": "5",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/5-310x310.jpg",
+      "title": "Brakes",
+      "quantity": 12,
+      "category": "Braking System"
+    },
+    {
+      "id": "6",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/7-310x310.jpg",
+      "title": "Engine Oils",
+      "quantity": 20,
+      "category": "Engine and Performance"
+    },
+    {
+      "id": "7",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/1-310x310.jpg",
+      "title": "Steering Wheels",
+      "quantity": 3,
+      "category": "Interior Accessories"
+    },
+    {
+      "id": "8",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/speaker-310x310.jpg",
+      "title": "Car Speakers",
+      "quantity": 6,
+      "category": "Audio and Electronics"
+    },
+    {
+      "id": "9",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/6-310x310.jpg",
+      "title": "Exhaust Systems",
+      "quantity": 4,
+      "category": "Exhaust and Emissions"
+    },
+    {
+      "id": "10",
+      "image": "https://druco-be87.kxcdn.com/druco/wp-content/uploads/2022/08/8-310x310.jpg",
+      "title": "Car Batteries",
+      "quantity": 7,
+      "category": "Electrical and Ignition"
+    }
+  ]
+  
